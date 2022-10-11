@@ -1889,7 +1889,7 @@
       "port-version": 2
     },
     "dcmtk": {
-      "baseline": "3.6.7",
+      "baseline": "3.6.6",
       "port-version": 2
     },
     "debug-assert": {
